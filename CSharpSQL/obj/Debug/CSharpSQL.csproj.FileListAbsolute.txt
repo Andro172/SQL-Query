@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\bin\Debug\CSharpSQL.exe.config
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\bin\Debug\CSharpSQL.exe
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\bin\Debug\CSharpSQL.pdb
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\obj\Debug\CSharpSQL.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\obj\Debug\CSharpSQL.Form1.resources
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\obj\Debug\CSharpSQL.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\obj\Debug\CSharpSQL.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\obj\Debug\CSharpSQL.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\obj\Debug\CSharpSQL.exe
+C:\Users\Korisnik\source\repos\CSharpSQL\CSharpSQL\obj\Debug\CSharpSQL.pdb
