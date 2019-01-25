@@ -1,3 +1,3 @@
-#SQL-Query
+# SQL-Query
 
-Enter query and click the "Execute" button
+Enter query and click the **Execute** button
